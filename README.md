@@ -18,19 +18,4 @@ Filter Context: Use CALCULATE and FILTER for dynamic calculations.
 
 Time Intelligence: Compare data over time with functions like TOTALYTD.
 
-Usage
-Import ER data into Power BI.
-
-Apply DAX for data modeling.
-
-Build visualizations (charts, tables).
-
-Add interactivity with slicers and filters.
-
-Future Enhancements
-Add predictive analytics.
-
-Implement role-based access.
-
-Optimize for mobile devices.
 
